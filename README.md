@@ -1,2 +1,4 @@
-# csv_to_org
-Convert a CSV file to Org-mode
+# CSV to Org
+Convert a CSV file to an Org-mode compatible todo list.
+
+In progress.
